@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Gama | Damian Owerko</title>
+    <link>https://damowerko.github.io/authors/fernando-gama/</link>
+      <atom:link href="https://damowerko.github.io/authors/fernando-gama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando Gama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2019 Damian Owerko</copyright><lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damowerko.github.io/img/icon-192.png</url>
+      <title>Fernando Gama</title>
+      <link>https://damowerko.github.io/authors/fernando-gama/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Power Flow Using Graph Neural Networks</title>
+      <link>https://damowerko.github.io/publication/icassp2020/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://damowerko.github.io/publication/icassp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Power Outages Using Graph Neural Networks</title>
+      <link>https://damowerko.github.io/publication/globalsip2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://damowerko.github.io/publication/globalsip2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

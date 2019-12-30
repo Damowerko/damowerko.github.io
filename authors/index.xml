@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Damian Owerko</title>
+    <link>https://damowerko.github.io/authors/</link>
+      <atom:link href="https://damowerko.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2019 Damian Owerko</copyright><lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damowerko.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://damowerko.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Alejandro Ribeiro</title>
+      <link>https://damowerko.github.io/authors/alejandro-ribeiro/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://damowerko.github.io/authors/alejandro-ribeiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damian Owerko</title>
+      <link>https://damowerko.github.io/authors/damian-owerko/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://damowerko.github.io/authors/damian-owerko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Gama</title>
+      <link>https://damowerko.github.io/authors/fernando-gama/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://damowerko.github.io/authors/fernando-gama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://damowerko.github.io/authors/damowerko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://damowerko.github.io/authors/damowerko/</guid>
+      <description>&lt;p&gt;I am a Senior at University of Pennsylvania pursuing a dual-degree between Systems Engineering and Physics. For the last
+three years I have been researching the applications of graph neural networks to energy systems, about which I published
+two &lt;a href=&#34;#featured&#34;&gt;papers&lt;/a&gt;. I believe that in many such systems we do not utilize all available information - for example
+most electricity consumers do not receive price signals. By taking advantage of new technologies and data we can
+dramatically increase system efficiency.&lt;/p&gt;
+&lt;p&gt;I am also a passionate member of &lt;a href=&#34;https://pennelectricracing.com&#34;&gt;Penn Electric Racing&lt;/a&gt;, where I am a software lead.
+We are a team of over 60 students dedicated to designing, manufacturing, and competing with a formula electric car at
+formula student (FSAE).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
